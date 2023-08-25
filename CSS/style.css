@@ -1,0 +1,64 @@
+/* Navigation styles */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .logo {
+    width: 23%;
+    padding: 1%;
+  }
+  
+  .navigation {
+   width: 73%;
+   padding: 1%; 
+  }
+  
+  .inline-block{
+    width: 50%;
+    margin-left: auto;
+    text-align: center;
+  }
+  
+  
+  /* Hero Image styles */
+  .heroimg {
+  height: 600px;
+  padding: 25px;
+  }
+  
+  .content {
+    width: 500px;
+    margin: 0 auto;
+  }
+  /* Footer styles */
+  
+  .footer {
+    background-color: #373738;
+    padding: 25px;
+    display: inline-block;
+    
+  
+  
+  }
+  
+  .home {
+    padding: 25px;
+  }
+  
+  .projects {
+    padding: 25px;
+  }
+  
+  .about {
+    padding: 25px;
+  }
+  
+  .resume {
+    padding: 25px;
+  }
+  
+  .inline-block {
+    display: inline-block;
+    vertical-align: top;
+  }
